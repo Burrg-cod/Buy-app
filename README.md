@@ -1,1 +1,1 @@
-# Buy-app-RocketSeat
+# App: Comprar | RocketSeat
